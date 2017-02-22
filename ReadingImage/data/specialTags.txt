@@ -1,0 +1,5 @@
+Test0.png [247] [192] [400] [400] Zer
+Test0.png [177] [31] [176] [29] Right Panel
+Test10.png [161] [180] [645] [414] AAAAAAAAAAAAAAAA
+Test0.png [567] [15] [797] [596] RIGHT SIDE
+Test15.png [162] [177] [633] [409] FFFFFFFFFFFFFF
